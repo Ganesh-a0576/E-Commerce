@@ -52,31 +52,24 @@ Open http://localhost:3000 (or whichever port) in your browser.
 <img width="1743" height="873" alt="Screenshot 2025-10-22 103344" src="https://github.com/user-attachments/assets/43a91d25-f8c8-4bfa-a14e-26451ae91157" />
 
 
-✅ Why This Project Stands Out
-Built with a professional engineering mindset: code is modular, readable, and scalable.
-
-Demonstrates full-cycle development: UI → API → database → deployment.
-
-Highlights skills that matter to FAANG/M roles: problem-solving, system design, clean code, and user experience.
-
-Ready for further extension: micro-services, caching, high-traffic optimization, data modelling improvements.
 
 🔭 Next Steps / Enhancements
-Add real payment gateway (Stripe, PayPal)
 
-Implement search & recommendation engine for products
-
-Introduce microservices architecture or GraphQL API
-
-Deploy with CI/CD pipeline, environment specific builds, monitoring & logging
-
-Optimize for high-traffic scenarios, caching, and horizontal scaling
+      Add real payment gateway (Stripe, PayPal)
+      
+      Implement search & recommendation engine for products
+      
+      Introduce microservices architecture or GraphQL API
+      
+      Deploy with CI/CD pipeline, environment specific builds, monitoring & logging
+      
+      Optimize for high-traffic scenarios, caching, and horizontal scaling
 
 📬 Connect With Me
-Feel free to reach out:
-
-GitHub: Ganesh-a0576
-
-LinkedIn: https://www.linkedin.com/in/bathulaganesh576/
-
-Email: ganesh1a0576@gmail.com
+      Feel free to reach out:
+      
+      GitHub: Ganesh-a0576
+      
+      LinkedIn: https://www.linkedin.com/in/bathulaganesh576/
+      
+      Email: ganesh1a0576@gmail.com
